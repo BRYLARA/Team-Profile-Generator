@@ -85,7 +85,7 @@ function app() {
         {
           type: "list",
           name: "memberChoice",
-          message: "Wate Type Of TeamMember Are You Adding?",
+          message: "What Type Of Team Member Are You Adding Today?",
           choices: ["Engineer", "Intern", "No More Team Members To Add"],
         },
       ])
